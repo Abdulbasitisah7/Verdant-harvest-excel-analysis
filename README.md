@@ -3,7 +3,7 @@
 An Excel Data Model, DAX and dashboard project that turns 10,000 farm, sales and delivery records into clear business decisions.
 *EXCEL Group Data Analytics Capstone, 2026*
 
-[Dashboard](dashboard.png.jpeg)
+![Dashboard](dashboard.png.jpeg)
 
 ## 1. Project in Plain English
 
